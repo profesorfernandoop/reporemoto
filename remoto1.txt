@@ -1,0 +1,3 @@
+Archivo creado por otro miembro del equipo y que necesito para hacer mi siguiente tarea.
+---------------------------------------------------------------------------------------------
+Voy a aprender el comando para descargarlo a mi repositorio local.
